@@ -1,0 +1,140 @@
+[
+    {
+        "id": "f6f2187d.f17ca8",
+        "type": "tab",
+        "label": "Host Management",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "e2cf89cbc52326ff",
+        "type": "http in",
+        "z": "f6f2187d.f17ca8",
+        "name": "[GET] /wol",
+        "url": "/wol",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 220,
+        "y": 520,
+        "wires": [
+            [
+                "d414f3d99c454f10"
+            ]
+        ]
+    },
+    {
+        "id": "d414f3d99c454f10",
+        "type": "function",
+        "z": "f6f2187d.f17ca8",
+        "name": "Get MAC Address",
+        "func": "const MACAddresses = new Map();\n\nMACAddresses.set(\"node-1\", \"00:00:00:00:00:11\");\nMACAddresses.set(\"node-2\", \"00:00:00:00:11:11\");\nMACAddresses.set(\"node-3\", \"00:00:00:11:11:11\");\n\nconst host = msg.req.query.host;\nconst mac = MACAddresses.get(host);\n\nmsg.payload = mac;\nmsg.mac = mac;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 520,
+        "wires": [
+            [
+                "9fb040521f2d9aba",
+                "a6300e516bd7e429"
+            ]
+        ]
+    },
+    {
+        "id": "9fb040521f2d9aba",
+        "type": "http response",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "a6300e516bd7e429",
+        "type": "wake on lan",
+        "z": "f6f2187d.f17ca8",
+        "mac": "",
+        "host": "192.168.4.31",
+        "udpport": 9,
+        "numpackets": "3",
+        "interval": 100,
+        "name": "",
+        "x": 690,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "d55d9e5f.1fd9b",
+        "type": "http in",
+        "z": "f6f2187d.f17ca8",
+        "name": "[GET] /shutdown",
+        "url": "/shutdown",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 200,
+        "y": 600,
+        "wires": [
+            [
+                "de10a133.23589"
+            ]
+        ]
+    },
+    {
+        "id": "de10a133.23589",
+        "type": "function",
+        "z": "f6f2187d.f17ca8",
+        "name": "Format Command",
+        "func": "const host = msg.req.query.host;\n\nmsg.payload = `wol@${host}`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 600,
+        "wires": [
+            [
+                "a0908da3.8a9fa",
+                "3bff5d3654d0a31f"
+            ]
+        ]
+    },
+    {
+        "id": "a0908da3.8a9fa",
+        "type": "exec",
+        "z": "f6f2187d.f17ca8",
+        "command": "ssh ",
+        "addpay": "payload",
+        "append": "poweroff",
+        "useSpawn": "",
+        "timer": "",
+        "winHide": false,
+        "name": "SSH msg.payload",
+        "x": 710,
+        "y": 600,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3bff5d3654d0a31f",
+        "type": "http response",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 660,
+        "wires": []
+    }
+]

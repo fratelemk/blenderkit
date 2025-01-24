@@ -1,0 +1,118 @@
+[
+    {
+        "id": "ca0219a1e90bb206",
+        "type": "tab",
+        "label": "Render Management",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "879d1330a2566f8a",
+        "type": "http in",
+        "z": "ca0219a1e90bb206",
+        "name": "[GET] /render",
+        "url": "/render",
+        "method": "get",
+        "upload": true,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 600,
+        "wires": [
+            [
+                "d43db0a40e84fe05"
+            ]
+        ]
+    },
+    {
+        "id": "d43db0a40e84fe05",
+        "type": "function",
+        "z": "ca0219a1e90bb206",
+        "name": "Get Scenes",
+        "func": "const file = msg.req.query.file;\n// const script = env.get(\"BLENDER_GET_SCENE\")\nmsg.payload = `blender -b ${file} --python /Users/mihaiflorescu/Developer/PycharmProjects/blendkit/scripts/get_scene.py`\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 600,
+        "wires": [
+            [
+                "6d864ac988834f8e"
+            ]
+        ]
+    },
+    {
+        "id": "ec46e4924b0c97db",
+        "type": "http response",
+        "z": "ca0219a1e90bb206",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 950,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "6d864ac988834f8e",
+        "type": "exec",
+        "z": "ca0219a1e90bb206",
+        "command": "",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "blender msg.payload",
+        "x": 540,
+        "y": 600,
+        "wires": [
+            [
+                "e0a2ec40e989809e"
+            ],
+            [],
+            [
+                "47fa6ed81e3159f2"
+            ]
+        ]
+    },
+    {
+        "id": "e0a2ec40e989809e",
+        "type": "function",
+        "z": "ca0219a1e90bb206",
+        "name": "Parse JSON",
+        "func": "function extractJSON(str) {\n    const lines = str.split('\\n');\n    for (const line of lines) {\n        try {\n            if (line.trim().startsWith('[')) {\n                return JSON.parse(line);\n            }\n        } catch (e) {\n            continue;\n        }\n    }\n    return null;\n}\n\nmsg.payload = extractJSON(msg.payload)\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 500,
+        "wires": [
+            [
+                "ec46e4924b0c97db"
+            ]
+        ]
+    },
+    {
+        "id": "47fa6ed81e3159f2",
+        "type": "debug",
+        "z": "ca0219a1e90bb206",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 720,
+        "wires": []
+    }
+]

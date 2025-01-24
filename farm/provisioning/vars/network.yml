@@ -1,0 +1,19 @@
+subnet: 192.168.24.0
+netmask: 255.255.255.0
+
+range: 192.168.24.10 192.168.24.20
+
+gateway: 192.168.24.254
+broadcast_ip: 192.168.24.255
+
+server_ip: 192.168.24.2
+server_ip_cidr: 192.168.24.2/24
+
+conn_name: LAN
+ifname: enp49s0
+
+node1_mac: 64:00:6a:0c:44:4b
+node1_ip: 192.168.24.21
+
+node2_mac: 64:00:6a:40:81:22
+node2_ip: 192.168.24.22

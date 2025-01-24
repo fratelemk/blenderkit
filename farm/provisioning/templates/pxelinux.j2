@@ -1,0 +1,4 @@
+DEFAULT linux
+LABEL linux
+	KERNEL vmlinuz
+	APPEND root=/dev/nfs initrd=initrd.img nfsroot={{ server_ip }}:/srv/nfs/nfsroot ipv6.disable=1 ip=dhcp ro

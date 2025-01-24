@@ -1,0 +1,56 @@
+---
+- name: Prepare client image for diskless booting
+  hosts: chroots
+  gather_facts: no
+  connection: chroot
+  tasks:
+    - name: Ensure required packages are present
+      apt:
+        name: 
+          - lldpd
+          - overlayroot
+          - linux-image-amd64
+        state: present
+
+    - name: Ensure lldpd is enabled
+      systemd:
+        name: lldpd
+        enabled: true
+
+    - name: Ensure overlayroot is configured
+      lineinfile:
+        path: /etc/overlayroot.conf
+        regexp: '^overlayroot='
+        line: 'overlayroot="tmpfs:swap=0"'
+        state: present
+    
+    - name: Ensure fstab is configured
+      lineinfile:
+        path: /etc/fstab
+        line: '/dev/nfs   /   nfs   tcp,nolock 0 0'
+
+    - name: Ensure netboot modules are selected
+      lineinfile:
+        path: /etc/initramfs-tools/initramfs.conf
+        regexp: '^MODULES='
+        line: 'MODULES=netboot'
+        state: present
+
+    - name: Ensure initramfs is updated
+      command: update-initramfs -u
+
+    - name: Ensure initrd and kernel are copied
+      fetch:
+        src: "{{ item }}"
+        dest: /var/lib/tftpboot/pxelinux/
+        flat: yes
+      loop:
+        - "/initrd.img"
+        - "/vmlinuz"
+
+    - name: Ensure lldpd is configured
+      copy:
+        dest: /etc/lldpd.d/system-description.conf
+        content: |
+          'configure system description "Render Node"'
+

@@ -1,0 +1,85 @@
+---
+- name: Prepare server for diskless booting
+  hosts: localhost
+  gather_facts: no
+  become: yes
+  vars_files:
+    - vars/network.yml
+  tasks:
+    - name: Ensure required packages are present
+      package:
+        name:
+          - dhcp-server
+          - tftp-server
+          - debootstrap
+          - syslinux
+        state: present
+        install_weak_deps: false
+
+    - name: Ensure services are started, and enabled
+      service:
+        name: "{{ item }}"
+        state: started
+        enabled: true
+      loop:
+        - dhcpd
+        - tftp
+
+    - name: Ensure required directories are present
+      file:
+        path: "{{ item }}"
+        state: directory
+      loop:
+        - /var/lib/tftpboot/pxelinux/pxelinux.cfg
+        - /srv/nfs/nfsroot
+
+    - name: Ensure bootfiles are copied
+      copy:
+        src: "{{ item.src }}"
+        dest: "{{ item.dest }}"
+      loop:
+        - src: /usr/share/syslinux/pxelinux.0
+          dest: /var/lib/tftpboot/pxelinux/
+        - src: /usr/share/syslinux/ldlinux.c32
+          dest: /var/lib/tftpboot/pxelinux/
+
+    - name: Ensure nfs exports are configured
+      lineinfile:
+        path: /etc/exports
+        line: "/srv/nfs/nfsroot 192.168.0.0/16(ro,sync,no_subtree_check,no_root_squash)"
+
+    - name: Ensure nfs exports are exported
+      command: exportfs -r
+    
+    - name: Ensure Debian is bootstraped
+      command: debootstrap stable /srv/nfs/nfsroot http://deb.debian.org/debian/
+      args:
+        creates: /srv/nfs/nfsroot/bin/bash
+
+    - name: Ensure Python is installed in Debian
+      command: chroot /srv/nfs/nfsroot /bin/bash -c "apt update && apt install -y python3"
+        
+    - name: Ensure pxelinux.cfg/default is present
+      template:
+        src: pxelinux.j2
+        dest: /var/lib/tftpboot/pxelinux/pxelinux.cfg/default
+
+    - name: Ensure dhcpd is configured 
+      template:
+        src: dhcpd.conf.j2
+        dest: /etc/dhcp/dhcpd.conf
+
+    - name: Configure interface is configured
+      nmcli:
+        conn_name: "{{ conn_name }}"
+        type: ethernet
+        state: present
+        ifname: "{{ ifname }}"
+        dns4:
+          - "{{ gateway }}"
+        gw4: "{{ gateway }}"
+        ip4: "{{ server_ip_cidr }}"
+        autoconnect: true
+
+  
+
