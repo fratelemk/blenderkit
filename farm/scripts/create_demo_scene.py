@@ -7,7 +7,6 @@ from collections import namedtuple
 
 
 ENGINE = "BLENDER_EEVEE_NEXT"
-
 START_FRAME = 1
 END_FRAME = 200
 
