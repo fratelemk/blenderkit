@@ -1,0 +1,277 @@
+00:00.768  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_72 86/175 | Packing BVH nodes
+00:00.768  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_72 86/175 | Packing BVH triangles and strands
+00:00.768  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_72 86/175 | Packing BVH nodes
+00:00.768  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_72 87/175 | Building BVH
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_11610.dat_72 89/175 | Building BVH
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3666.dat_28 90/175 | Building BVH
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3666.dat_28 90/175 | Packing BVH triangles and strands
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3666.dat_28 90/175 | Packing BVH nodes
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3666.dat_28 90/175 | Packing BVH triangles and strands
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3666.dat_28 90/175 | Packing BVH nodes
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3032.dat_28 91/175 | Building BVH
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3032.dat_28 91/175 | Packing BVH triangles and strands
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Building BVH
+00:00.769  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87620.dat_19 92/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3003.dat_19 93/175 | Building BVH
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3003.dat_19 93/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3003.dat_19 93/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3003.dat_19 93/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 94/175 | Building BVH
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 94/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_71 95/175 | Building BVH
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_15 96/175 | Building BVH
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_15 96/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_15 96/175 | Packing BVH nodes
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 97/175 | Building BVH
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 97/175 | Packing BVH triangles and strands
+00:00.770  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 97/175 | Packing BVH nodes
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3022.dat_19 98/175 | Building BVH
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3022.dat_19 98/175 | Packing BVH triangles and strands
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3022.dat_19 98/175 | Packing BVH nodes
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_28 99/175 | Building BVH
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_28 99/175 | Packing BVH nodes
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60481.dat_19 100/175 | Building BVH
+00:00.771  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60481.dat_19 101/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60481.dat_19 101/175 | Packing BVH triangles and strands
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60481.dat_19 101/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 102/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 102/175 | Packing BVH triangles and strands
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 102/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30136.dat_19 103/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30136.dat_19 103/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3004.dat_28 104/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 105/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 105/175 | Packing BVH triangles and strands
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 105/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 106/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 106/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 107/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30136.dat_19 108/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 109/175 | Building BVH
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 109/175 | Packing BVH triangles and strands
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 109/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 109/175 | Packing BVH triangles and strands
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 109/175 | Packing BVH nodes
+00:00.772  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 110/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 110/175 | Packing BVH nodes
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 110/175 | Packing BVH triangles and strands
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 110/175 | Packing BVH nodes
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 111/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6141.dat_70 111/175 | Packing BVH nodes
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3020.dat_28 112/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 113/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 114/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 114/175 | Packing BVH nodes
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_19 114/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 115/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 116/175 | Building BVH
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 116/175 | Packing BVH triangles and strands
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 116/175 | Packing BVH nodes
+00:00.773  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 117/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 117/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 117/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 117/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 118/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 118/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 118/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 119/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 119/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 119/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 119/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 119/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 120/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 121/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 121/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 121/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 122/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 122/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 122/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 123/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 123/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 123/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 123/175 | Packing BVH triangles and strands
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 123/175 | Packing BVH nodes
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_85861.dat_15 124/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6266.dat_71 125/175 | Building BVH
+00:00.774  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 126/175 | Building BVH
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 126/175 | Packing BVH triangles and strands
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 126/175 | Packing BVH nodes
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_88646.dat_71 173/175 | Building BVH
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_88646.dat_71 173/175 | Packing BVH triangles and strands
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_88646.dat_71 173/175 | Packing BVH nodes
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 127/175 | Building BVH
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 127/175 | Packing BVH triangles and strands
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 127/175 | Packing BVH nodes
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 127/175 | Packing BVH triangles and strands
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 127/175 | Packing BVH nodes
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 128/175 | Building BVH
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2429.dat_19 129/175 | Building BVH
+00:00.775  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2430.dat_19 130/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2430.dat_19 130/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2430.dat_19 130/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30150.dat_70 172/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30150.dat_70 172/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30150.dat_70 172/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_61780.dat_72 131/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_71 132/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_71 132/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_71 132/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30361dps8.dat_15 133/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30361dps8.dat_15 133/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30361dps8.dat_15 133/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30361dps8.dat_15 133/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30361dps8.dat_15 133/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30367cps8.dat_179 134/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30367cps8.dat_179 134/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 135/175 | Packing BVH nodes
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 135/175 | Building BVH
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 135/175 | Packing BVH triangles and strands
+00:00.776  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 135/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 136/175 | Building BVH
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 136/175 | Packing BVH triangles and strands
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30362a.dat_15 136/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 137/175 | Building BVH
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 137/175 | Packing BVH triangles and strands
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3062b.dat_71 137/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87994.dat_71 138/175 | Building BVH
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87994.dat_71 138/175 | Packing BVH triangles and strands
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87994.dat_71 138/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 139/175 | Building BVH
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 139/175 | Packing BVH triangles and strands
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 139/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 139/175 | Packing BVH triangles and strands
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 139/175 | Packing BVH nodes
+00:00.777  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3958.dat_28 140/175 | Building BVH
+00:00.778  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3958.dat_28 140/175 | Packing BVH triangles and strands
+00:00.778  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3958.dat_28 140/175 | Packing BVH nodes
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 141/175 | Building BVH
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 141/175 | Packing BVH triangles and strands
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 141/175 | Packing BVH nodes
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30136.dat_19 142/175 | Building BVH
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30136.dat_19 142/175 | Packing BVH nodes
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 143/175 | Building BVH
+00:00.779  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 144/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 144/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4460b.dat_19 145/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3622.dat_19 146/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3622.dat_19 146/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3622.dat_19 146/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3622.dat_19 146/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_28 147/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_28 147/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_87580.dat_28 147/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_63864.dat_19 171/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3069b.dat_28 148/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3069b.dat_28 148/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3069b.dat_28 148/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH triangles and strands
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92593.dat_28 149/175 | Packing BVH nodes
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_71 150/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2412b.dat_71 151/175 | Building BVH
+00:00.780  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4865b.dat_28 152/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_4460b.dat_19 153/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6636.dat_19 170/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3024.dat_28 154/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3024.dat_28 154/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3024.dat_28 154/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3024.dat_28 154/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_36840.dat_0 155/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_28 156/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_28 156/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_28 156/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_28 156/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3623.dat_28 156/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3070bpc0.dat_71 157/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_60475b.dat_19 158/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 159/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3010.dat_19 159/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2429.dat_19 160/175 | Packing BVH nodes
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2430.dat_19 161/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6636.dat_19 169/175 | Building BVH
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6636.dat_19 169/175 | Packing BVH triangles and strands
+00:00.781  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_6636.dat_19 169/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_92950.dat_19 162/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 163/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 163/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3005.dat_19 163/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 164/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 164/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 164/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 165/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 165/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 165/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 168/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 168/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 168/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 168/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_30503.dat_19 168/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_2877.dat_19 166/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Building BVH
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.782  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH triangles and strands
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Geometry BVH Mesh_3023b.dat_19 167/175 | Packing BVH nodes
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Scene BVH | Building
+00:00.783  render           | Fra: 0 | Mem: 5M | Updating Scene BVH | Building BVH
+00:00.785  render           | Fra: 0 | Mem: 5M | Updating Scene BVH | Packing BVH triangles and strands
+00:00.785  render           | Fra: 0 | Mem: 5M | Updating Scene BVH | Packing BVH nodes
+00:00.788  render           | Fra: 0 | Mem: 5M | Updating Scene BVH | Copying BVH to device
+00:00.790  render           | Fra: 0 | Mem: 21M | Updating Mesh | Computing normals
+00:00.792  render           | Fra: 0 | Mem: 21M | Updating Mesh | Copying Mesh to device
+00:00.794  render           | Fra: 0 | Mem: 37M | Updating Objects Flags
+00:00.794  render           | Fra: 0 | Mem: 37M | Updating Primitive Offsets
+00:00.794  render           | Fra: 0 | Mem: 37M | Updating Images
+00:00.794  render           | Fra: 0 | Mem: 37M | Updating Images | Loading GHDRI_DLCD_002_10k.hdr
+00:01.478  render           | Fra: 0 | Mem: 800M | Updating Volume
+00:01.487  render           | Fra: 0 | Mem: 800M | Updating Volume | Evaluating density for Atmosphere
+00:01.509  render           | Fra: 0 | Mem: 800M | Updating Volume | Building octree for Atmosphere
+00:01.510  render           | Fra: 0 | Mem: 800M | Updating Camera Volume
+00:01.510  render           | Fra: 0 | Mem: 800M | Updating Lookup Tables
+00:01.510  render           | Fra: 0 | Mem: 800M | Updating Lights
+00:01.510  render           | Fra: 0 | Mem: 800M | Updating Lights | Importance map
+00:03.264  render           | Fra: 0 | Mem: 1182M | Updating Lights | Computing tree
+00:03.265  render           | Fra: 0 | Mem: 1182M | Updating Integrator
+00:03.267  render           | Fra: 0 | Mem: 1186M | Updating Film
+00:03.267  render           | Fra: 0 | Mem: 1186M | Updating Lookup Tables
+00:03.267  render           | Fra: 0 | Mem: 1186M | Updating Baking
+00:03.267  render           | Fra: 0 | Mem: 1186M | Updating Device | Writing constant memory
+00:03.287  render           | Fra: 0 | Mem: 1186M | Loading denoising kernels (may take a few minutes the first time)
+00:03.294  render           | Fra: 0 | Mem: 3162M | Sample 0/1024 (Using optimized kernels)
+00:04.986  render           | Fra: 0 | Remaining: 28:51.34 | Mem: 3391M | Sample 1/1024 (Using optimized kernels)
+00:06.110  render           | Fra: 0 | Remaining: 23:59.45 | Mem: 3391M | Sample 2/1024 (Using optimized kernels)
+00:08.314  render           | Fra: 0 | Remaining: 21:20.25 | Mem: 3391M | Sample 4/1024 (Using optimized kernels)
+00:12.342  render           | Fra: 0 | Remaining: 19:09.15 | Mem: 3391M | Sample 8/1024 (Using optimized kernels)
