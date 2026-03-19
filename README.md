@@ -12,3 +12,12 @@ The project currently focuses on the infrastructure rather than the actual softw
 ## References
 
 - [Flamenco](https://flamenco.blender.org)
+- [Brenda](https://github.com/jamesyonan/brenda/blob/master/brenda/utils.py)
+
+## Commands
+
+Render on MacOS
+
+```bash
+blender -b $SCENE -f 0 -- --cycles-device METAL --cycles-print-stats 
+```
